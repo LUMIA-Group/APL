@@ -11,5 +11,5 @@ Our code is based on [ASL](https://github.com/Alibaba-MIIL/ASL).
 
 2. Adjust the parameters according to the discussion in the paper. 
 
-3. See the performance improvement.
+3. See the stable performance improvement.
 
